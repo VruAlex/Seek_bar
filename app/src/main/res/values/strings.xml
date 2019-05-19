@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Seek_bar</string>
+
+    <string name="RatingBarEffect" parent="Theme.AppCompat">
+        <item name="colorControlNormal">@color/Indigo</item>
+        <item name="colorControlActivated">@color/Pink</item>
+    </string>
+
+</resources>
